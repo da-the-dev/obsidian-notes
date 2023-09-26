@@ -190,6 +190,8 @@
   },
   "active": "1a5148e29f826b7e",
   "lastOpenFiles": [
+    "README.md",
+    "README>MD",
     "Statistics/Probability distribution.md",
     "Statistics/Probability density function.md",
     "Statistics/Frequency distribution.md",
@@ -221,7 +223,6 @@
     "OS/jojomemes/week03/ex3.sh",
     "OS/jojomemes/week03/exa",
     "OS/jojomemes/week03/ex3",
-    "OS/jojomemes/week03/ex3.c",
     "Differential equations/Differential equations.md",
     "Optimization/P1-Simplex/README.md",
     "Media folder/Pasted image 20230924210659.png",
@@ -237,7 +238,6 @@
     "Optimization/Graphical solution of LPP.md",
     "Optimization/Two phase method.md",
     "Optimization/Big M method.md",
-    "Optimization/Simplex method.md",
-    "OS/Boot.md"
+    "Optimization/Simplex method.md"
   ]
 }

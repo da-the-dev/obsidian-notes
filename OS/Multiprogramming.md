@@ -1,0 +1,2 @@
+Multiprogramming is when the [[CPU]] switches between [[Process|processes]] to execute many almost at once. This happens by moving PC from the register to primary [[Memory|memory]] to switch a process.
+![[Pasted image 20230913154735.png]]

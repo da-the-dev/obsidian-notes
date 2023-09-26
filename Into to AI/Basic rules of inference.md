@@ -1,0 +1,7 @@
+- Modus Ponens: If P implies Q, and P is true, then Q is true
+- Modus Tollens: If P implies Q, and P is false, then Q is false
+- Constructing a Conjunction: If P is true and Q is true, then P and Q is true.
+- Rule of Simplification: If P and Q is true, then P is true.
+- Rule of Addition: If P is true, then P or Q is true.
+- Rule of Disjunctive Syllogism: If P or Q is true, and P is false, then Q is true.
+- Rule of Hypothetical Syllogism: If P implies Q, and Q implies R, then P implies R

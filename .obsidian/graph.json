@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Statistics  ",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "path:Calculus  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Optimization  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Into to AI\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701276
+      }
+    },
+    {
+      "query": "path:OS  ",
+      "color": {
+        "a": 1,
+        "rgb": 13311
+      }
+    },
+    {
+      "query": "path:\"Differential equations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.028,
+  "lineSizeMultiplier": 3.51818181818182,
+  "collapse-forces": false,
+  "centerStrength": 0.441113172541744,
+  "repelStrength": 9.67717996289425,
+  "linkStrength": 1,
+  "linkDistance": 59,
+  "scale": 0.47459251253537255,
+  "close": false
+}

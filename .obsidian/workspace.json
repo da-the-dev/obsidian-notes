@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "a5e7d80bf249db0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e933a06a72af9e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65cbd6f10866f522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Probability density function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a5148e29f826b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Probability density function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8d3db1a6910f2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b459e1babd11c57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d16d0bd2b378f13",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "discre",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e43e0e54c7990a32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dd609ee89f405d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e64154e3546bfa5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec4731d9ae28790",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee025f36d56361a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Statistics/Probability density function.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3879d94f7b574395",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Statistics/Probability density function.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b07a06cfeeb0a9d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ea0d010f6ddc326",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Statistics/Probability density function.md"
+              }
+            }
+          },
+          {
+            "id": "fe3c495f7990477e",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "908d034b36d8530a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "da0e9b7feef66b82",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obisidian-note-linker:Note Linker": false,
+      "obsidian-ocr:Search OCR": false
+    }
+  },
+  "active": "1a5148e29f826b7e",
+  "lastOpenFiles": [
+    "Statistics/Probability distribution.md",
+    "Statistics/Probability density function.md",
+    "Statistics/Frequency distribution.md",
+    "Statistics/Cumulative distribution function.md",
+    "Statistics/Data.md",
+    "Statistics/Joint probability.md",
+    "Statistics/Measurement.md",
+    "Statistics/Binomial probability distribution.md",
+    "Statistics/Probability distribution function.pdf",
+    "Statistics/combine.md",
+    "Statistics/Histogram.md",
+    "Statistics/Observations and experiments.md",
+    "Statistics/Randomness.md",
+    "Statistics/awd.md",
+    "Statistics/Probability.md",
+    "Statistics/Sampling.md",
+    "Statistics/Vocab.md",
+    "Media folder/Pasted image 20230926135957.png",
+    "Media folder/Pasted image 20230926135746.png",
+    "Media folder/Pasted image 20230926135745.png",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "OS/jojomemes/week03/-g",
+    "OS/jojomemes/week03/ex4",
+    "OS/jojomemes/week03/ex4.c",
+    "OS/jojomemes/week03/test.c",
+    "OS/jojomemes/test.c",
+    "OS/jojomemes/week03/ex3.sh",
+    "OS/jojomemes/week03/exa",
+    "OS/jojomemes/week03/ex3",
+    "OS/jojomemes/week03/ex3.c",
+    "Differential equations/Differential equations.md",
+    "Optimization/P1-Simplex/README.md",
+    "Media folder/Pasted image 20230924210659.png",
+    "Media folder/Pasted image 20230924210649.png",
+    "Media folder/Pasted image 20230924210639.png",
+    "Media folder/Pasted image 20230924210407.png",
+    "Media folder/Pasted image 20230924204745.png",
+    "Media folder/Pasted image 20230924202522.png",
+    "Statistics/vocal.md",
+    "Media folder/Pasted image 20230924195855.png",
+    "Physics/Phys HW 1.md",
+    "Media folder.md",
+    "Optimization/Graphical solution of LPP.md",
+    "Optimization/Two phase method.md",
+    "Optimization/Big M method.md",
+    "Optimization/Simplex method.md",
+    "OS/Boot.md"
+  ]
+}

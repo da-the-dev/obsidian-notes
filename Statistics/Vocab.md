@@ -1,0 +1,10 @@
+- Data - any observations that have been collected ^a5bf63
+- Statistics - collecting, analyzing, summarizing, **interpreting**, and **draw conclusions** from data.
+- Population - complete set of elements that are being studied ^bcc47c
+- Sample - a subset of a population ^efd78b
+- Census - collecting data from every element of a population 
+- Parameter - characteristic of a population
+- Statistic - a characteristic of a sample
+- Event - collection of outcomes of a procedure
+	- Simple event - one single specific example
+- Sample space - all simple events (every possible outcome)

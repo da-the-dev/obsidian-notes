@@ -1,0 +1,31 @@
+/* Change header indents in Edit mode */
+.cm-header-1, .markdown-preview-view h1 {
+  left: 0px;
+  position: relative;
+}
+  
+.cm-header-2, .markdown-preview-view h2 {
+  left: 16px;
+  position: relative;
+}
+  
+.cm-header-3, .markdown-preview-view h3 {
+  left: 32px;
+  position: relative;
+}
+  
+.cm-header-4, .markdown-preview-view h4 {
+  left: 48px;
+  position: relative;
+}
+  
+.cm-header-5, .markdown-preview-view h5 {
+  left: 64px;
+  position: relative;
+}
+  
+.cm-header-6, .markdown-preview-view h6 {
+  left: 80px;
+  position: relative;
+}
+

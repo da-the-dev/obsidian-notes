@@ -4,35 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "2e933a06a72af9e6",
+        "id": "8043584fb0044de7",
         "type": "tabs",
         "children": [
           {
-            "id": "65cbd6f10866f522",
+            "id": "47a2064a30b9ad66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability density function.md",
+                "file": "Differential equations/Separable variables.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1a5148e29f826b7e",
+            "id": "49f560b9cbd2a2dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Probability density function.md",
+                "file": "Differential equations/Exact differential.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cd1c61492cf1e622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Differential equations/Linear first order differential equations.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9bb29bbc4fe227a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Phys HW 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f9bb1e4254c8499",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Media folder/IMG_2455.png"
+              }
+            }
+          },
+          {
+            "id": "85a34a26796316b2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -51,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "discre",
+                "query": "variance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Probability density function.md",
+                "file": "Media folder/IMG_2455.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Probability density function.md",
+                "file": "Media folder/IMG_2455.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Probability density function.md"
+                "file": "Media folder/IMG_2455.png"
               }
             }
           },
@@ -188,27 +230,41 @@
       "obsidian-ocr:Search OCR": false
     }
   },
-  "active": "1a5148e29f826b7e",
+  "active": "6f9bb1e4254c8499",
   "lastOpenFiles": [
-    "README.md",
-    "README>MD",
+    "Statistics/Covariance.md",
+    "Inno Books/(Diff) Fillipov.djvu",
+    "Inno Books/(Diff) Differential Equations I Trench.PDF",
+    "Inno Books/Filippov.djvu",
+    "Inno Books/TRENCH_DIFF_EQNS_I.PDF",
+    "Inno Books/probability_and_statistics_for_engineers_and_scientisst.pdf",
+    "Statistics/Expected value.md",
     "Statistics/Probability distribution.md",
-    "Statistics/Probability density function.md",
     "Statistics/Frequency distribution.md",
-    "Statistics/Cumulative distribution function.md",
+    "Statistics/Probability density function.md",
+    "Statistics/Probability.md",
     "Statistics/Data.md",
     "Statistics/Joint probability.md",
-    "Statistics/Measurement.md",
     "Statistics/Binomial probability distribution.md",
-    "Statistics/Probability distribution function.pdf",
+    "Statistics/Cumulative distribution function.md",
+    "Differential equations/Existence & Uniqueness of Solutions.md",
+    "Differential equations/Differential equations.md",
+    "Differential equations/Solve me cunt.md",
+    "Differential equations/Bernoulli equation.md",
+    "Differential equations/Separable variables.md",
+    "Physics/Phys HW 1.md",
+    "Differential equations/Linear first order differential equations.md",
+    "Differential equations/Exact differential.md",
+    "OS/CPU.md",
+    "Differential equations/First order differential equations.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Differential equations/Slope fields.md",
     "Statistics/combine.md",
-    "Statistics/Histogram.md",
-    "Statistics/Observations and experiments.md",
-    "Statistics/Randomness.md",
-    "Statistics/awd.md",
-    "Statistics/Probability.md",
-    "Statistics/Sampling.md",
-    "Statistics/Vocab.md",
+    "Media folder/IMG_2455.png",
+    "README.md",
+    "README>MD",
+    "Statistics/Probability distribution function.pdf",
     "Media folder/Pasted image 20230926135957.png",
     "Media folder/Pasted image 20230926135746.png",
     "Media folder/Pasted image 20230926135745.png",
@@ -218,26 +274,11 @@
     "OS/jojomemes/week03/-g",
     "OS/jojomemes/week03/ex4",
     "OS/jojomemes/week03/ex4.c",
-    "OS/jojomemes/week03/test.c",
-    "OS/jojomemes/test.c",
-    "OS/jojomemes/week03/ex3.sh",
-    "OS/jojomemes/week03/exa",
-    "OS/jojomemes/week03/ex3",
-    "Differential equations/Differential equations.md",
-    "Optimization/P1-Simplex/README.md",
     "Media folder/Pasted image 20230924210659.png",
     "Media folder/Pasted image 20230924210649.png",
     "Media folder/Pasted image 20230924210639.png",
     "Media folder/Pasted image 20230924210407.png",
     "Media folder/Pasted image 20230924204745.png",
-    "Media folder/Pasted image 20230924202522.png",
-    "Statistics/vocal.md",
-    "Media folder/Pasted image 20230924195855.png",
-    "Physics/Phys HW 1.md",
-    "Media folder.md",
-    "Optimization/Graphical solution of LPP.md",
-    "Optimization/Two phase method.md",
-    "Optimization/Big M method.md",
-    "Optimization/Simplex method.md"
+    "Media folder/Pasted image 20230924202522.png"
   ]
 }

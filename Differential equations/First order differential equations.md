@@ -1,0 +1,1 @@
+A first-order [[Differential equations|differential equation]] is an equation that relates an unknown function to its first derivative. It is of the form $F(x,y,y')=0$, where $F$ is a function of three variables $t$, $y$, and $y'$, and $y'=\dfrac{dy}{dx}$.

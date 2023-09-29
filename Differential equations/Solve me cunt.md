@@ -1,0 +1,5 @@
+- [x] Trajectories and slope fields **T**
+- [x] Separable variables **T**
+- [x] Bernoulli equations + Non-homogeneous **T**
+- [x] Exact equations **ADD THEORY**
+- [x] Homogeneous FO **ADD THEORY**

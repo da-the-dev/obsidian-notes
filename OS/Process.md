@@ -1,7 +1,7 @@
 A process is an instance of an executing program including the current values of the program counter, register, and values.
 All runnable software is organized into processes.
-Each process has is own virtual [[CPU]]. In reality, CPU switches between processes.
-Since only one process can be run on 1 CPU, once CPU wants to switch to a different process, current program counter is moved from the PC register to a corresponding place in memory. This process is called [[Multiprogramming|multiprogramming]].
+Each process has is own virtual [[CPU]]. In reality, [[CPU]] switches between processes.
+Since only one process can be run on 1 [[CPU]], once [[CPU]] wants to switch to a different process, current program counter is moved from the PC register to a corresponding place in memory. This process is called [[Multiprogramming|multiprogramming]].
 
 # Process creation
 1. System initialization

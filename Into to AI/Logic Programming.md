@@ -10,8 +10,8 @@ Imperative
 - Program build from libraries but many of the units are special purpose
 Logic
 - Rules
-- Inference Engine/Knowledge Base
-- Inference Engine built in
+- [[Inference]] Engine/Knowledge Base
+- [[Inference]] Engine built in
 - Knowledge base by programmer/user
 - Queries from User
 - Rapid deployment and prototyping as the language has the inference engine by default

@@ -11,22 +11,17 @@
             "id": "d289aab36cf00577",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differential equations/Bernoulli equation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "5f74deecd83f933e",
+            "id": "c73762824962ffb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential equations/Homogeneous first order.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e64154e3546bfa5c",
@@ -102,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential equations/Homogeneous first order.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential equations/Homogeneous first order.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential equations/Homogeneous first order.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -182,13 +176,22 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "5f74deecd83f933e",
+  "active": "c73762824962ffb7",
   "lastOpenFiles": [
-    "Differential equations/Bernoulli equation.md",
-    "Differential equations/Homogeneous first order.md",
-    "Into to AI/Logic Programming.md",
     "Differential equations/Solve me cunt.md",
+    "Differential equations/Slope fields.md",
+    "Differential equations/Separable variables.md",
+    "Differential equations/Linear first order differential equations.md",
+    "Differential equations/Initial value problem.md",
+    "Differential equations/Homogeneous first order.md",
+    "Differential equations/First order differential equations.md",
+    "Differential equations/Existence & Uniqueness of Solutions.md",
     "Differential equations/Exact differential.md",
+    "Differential equations/Differential equations.md",
+    "Differential equations/Bernoulli equation.md",
+    "Differential equations",
+    "Untitled.md",
+    "Into to AI/Logic Programming.md",
     "OS/Bus.md",
     "Statistics/Joint probability.md",
     "Statistics/Bayes' Rule.md",
@@ -202,7 +205,6 @@
     "Statistics/Binomial probability distribution.md",
     "Statistics/Probability distribution.md",
     "Statistics/Cumulative distribution function.md",
-    "Team report.md",
     "Optimization/P1-Simplex/build/CMakeFiles/Progress/3",
     "Optimization/P1-Simplex/build/CMakeFiles/Progress/2",
     "Optimization/P1-Simplex/build/CMakeFiles/Progress/4",
@@ -212,15 +214,7 @@
     "Optimization/P1-Simplex/build/CMakeFiles/Progress",
     "Optimization/P1-Simplex/build/CMakeFiles/simplex.dir/build.make.tmp3bf33",
     "Optimization/P1-Simplex/build/CMakeFiles/simplex.dir/compiler_depend.make.tmp9b85c",
-    "Optimization/P1-Simplex/build/CMakeFiles/simplex.dir/build.make.tmp745d3",
     "Media folder/IMG_2455.png",
-    "Statistics/Probability.md",
-    "Differential equations/Existence & Uniqueness of Solutions.md",
-    "Differential equations/Differential equations.md",
-    "Differential equations/Separable variables.md",
-    "Physics/Phys HW 1.md",
-    "Differential equations/Linear first order differential equations.md",
-    "OS/CPU.md",
     "Media folder/Pasted image 20230926135957.png",
     "Media folder/Pasted image 20230926135746.png",
     "Media folder/Pasted image 20230926135745.png",

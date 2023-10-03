@@ -30,15 +30,22 @@ $$
 M_{y}(x,y) = N_{x}(x,y)
 $$
 # Solution
+Equation
+$$
+M(x,y)dx + N(x,y)dy = 0
+$$
 1. Check that equation satisfies the exactness condition. If not, do not proceed any further
 2. Integrate
    $$
-\frac{ \partial F(x,y) }{ \partial x } = M(x,y)
+\int M(x,y) \, dx  = G(x, y) + \phi(y) = F(x,y)
 $$
-to obtain 
+3. Now, since we kinda know $F(x,y)$, we can take a derivative on $y$   
 $$
-F(x,y)=G(x,y)+\phi(y)
+\frac{ \partial F }{ \partial y } = [G(x,y) + \phi(y)]'_{y}= N(x,y)
 $$
+4. Now solve for $\phi(y)'_{y}$
+5. Once obtained, integrate 
 $$
-\frac{ \partial y }{ \partial x } 
+\int  \phi(y)'_{y} \, dy = \phi(y)
 $$
+6. Substitute $\phi (y)$  into step 2 to get $F(x,y)$ 

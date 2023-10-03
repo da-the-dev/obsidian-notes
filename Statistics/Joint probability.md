@@ -13,3 +13,5 @@ To find a probability, take an integral over interval as many interval as there 
 
 # Marginal distributions
 To find only the density function of one of the variables, take the integral over every variable, except the target one. Take the task restrictions into consideration.
+# Checking independence
+Checking for independency (continuous case): if $f(x,y) = g(x) * h(y)$, this JPDF is independent.

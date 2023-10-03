@@ -8,12 +8,6 @@ Example for a weighted die:
 A variable, x, that has a value for each outcome of a procedure that is determined by chance.
 
 Random variables can be [[Data#Continuous|discrete]] and [[Data#Continuous|continuous]].
-# Mean
-Also called expected value
-$\mu = \Sigma[x*P(x)]$
-# Variance
-How much each data point varies from the mean
-$\sigma^{2}=\Sigma[x^{2}*P(x)] - \mu^{2}$
 # Standard deviation
 How much each data point varies from the closest data points
 $\sigma = \sqrt{ \Sigma[x^{2}*P(x)] - \mu^{2} }$

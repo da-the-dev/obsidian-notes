@@ -1,11 +1,7 @@
 [
-  "obsidian-latex-suite",
-  "latex-matrices",
-  "graph-analysis",
   "table-editor-obsidian",
   "highlightr-plugin",
   "obisidian-note-linker",
   "obsidian-underline",
-  "obsidian-ocr",
-  "obsidian-git"
+  "obsidian-latex-suite"
 ]

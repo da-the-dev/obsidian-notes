@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "59c8463d6c174d1e",
+        "id": "6041e2f7bdd90594",
         "type": "tabs",
         "children": [
           {
-            "id": "d289aab36cf00577",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c73762824962ffb7",
+            "id": "cbc5ad087f797f0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Physics/Phys HW 2.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "variance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e64154e3546bfa5c",
@@ -96,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Physics/Phys HW 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Physics/Phys HW 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Physics/Phys HW 2.md"
               }
             }
           },
@@ -149,22 +141,13 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "da0e9b7feef66b82",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,39 +155,51 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obisidian-note-linker:Note Linker": false
+      "obisidian-note-linker:Note Linker": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "c73762824962ffb7",
+  "active": "cbc5ad087f797f0a",
   "lastOpenFiles": [
-    "Differential equations/Solve me cunt.md",
-    "Differential equations/Slope fields.md",
-    "Differential equations/Separable variables.md",
-    "Differential equations/Linear first order differential equations.md",
-    "Differential equations/Initial value problem.md",
-    "Differential equations/Homogeneous first order.md",
-    "Differential equations/First order differential equations.md",
-    "Differential equations/Existence & Uniqueness of Solutions.md",
-    "Differential equations/Exact differential.md",
-    "Differential equations/Differential equations.md",
-    "Differential equations/Bernoulli equation.md",
-    "Differential equations",
-    "Untitled.md",
+    "Physics/Phys HW 2.md",
+    "Into to AI/Agent.md",
+    "Into to AI/Environment.md",
+    "Into to AI/Alpha-beta pruning.md",
+    "Into to AI/Minimax.md",
+    "Into to AI/Tabu search.md",
+    "Into to AI/N-queens problem.md",
+    "Philosophy I/Graph.md",
+    "Into to AI/A*.md",
+    "Into to AI/Traveling Salesman Problem.md",
+    "Philosophy I",
+    "Into to AI/8-puzzle Problem.md",
+    "Into to AI/Utility-based agent.md",
+    "Into to AI/Constant Satisfaction Problem.md",
+    "Into to AI/Simple reflex agent.md",
+    "Into to AI/Entailment and derivation.md",
+    "Into to AI/Basic rules of inference.md",
+    "Into to AI/Backtracking.md",
+    "Into to AI/Exploration vs Exploitation.md",
+    "Into to AI/Learning agent.md",
     "Into to AI/Logic Programming.md",
-    "OS/Bus.md",
-    "Statistics/Joint probability.md",
-    "Statistics/Bayes' Rule.md",
-    "Statistics/Data.md",
-    "Statistics/Expected value.md",
     "Into to AI/Inference.md",
-    "Statistics/Frequency distribution.md",
-    "Statistics/Covariance.md",
-    "Statistics/Probability density function.md",
-    "Statistics/Variance.md",
-    "Statistics/Binomial probability distribution.md",
-    "Statistics/Probability distribution.md",
-    "Statistics/Cumulative distribution function.md",
+    "Into to AI/Goal-based agent.md",
+    "asted image 20231008181838.png.md",
+    "Media folder/Pasted image 20231009070041.png",
+    "Into to AI/PEAS.md",
+    "Media folder/Pasted image 20231008181838.png",
+    "Media folder/Pasted image 20231008181651.png",
+    "Media folder/Pasted image 20231008180912.png",
+    "Into to AI/Model-based reflex agent.md",
+    "Into to AI/Rationality.md",
+    "Media folder/Pasted image 20231008130848.png",
+    "Media folder/Pasted image 20231008130846.png",
+    "Media folder/Pasted image 20231008130844.png",
+    "Media folder/Pasted image 20231008130235.png",
+    "Media folder/Pasted image 20231008124454.png",
+    "Physics/Phys HW 2.pdf",
+    "Media folder/IMG_2464.png",
+    "Differential equations",
     "Optimization/P1-Simplex/build/CMakeFiles/Progress/3",
     "Optimization/P1-Simplex/build/CMakeFiles/Progress/2",
     "Optimization/P1-Simplex/build/CMakeFiles/Progress/4",
@@ -212,20 +207,8 @@
     "Optimization/P1-Simplex/build/CMakeFiles/simplex.dir/compiler_depend.make.tmp97f3f",
     "Optimization/P1-Simplex/build/CMakeFiles/Progress/count.txt",
     "Optimization/P1-Simplex/build/CMakeFiles/Progress",
-    "Optimization/P1-Simplex/build/CMakeFiles/simplex.dir/build.make.tmp3bf33",
-    "Optimization/P1-Simplex/build/CMakeFiles/simplex.dir/compiler_depend.make.tmp9b85c",
-    "Media folder/IMG_2455.png",
-    "Media folder/Pasted image 20230926135957.png",
-    "Media folder/Pasted image 20230926135746.png",
-    "Media folder/Pasted image 20230926135745.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Media folder/Pasted image 20230924210659.png",
-    "Media folder/Pasted image 20230924210649.png",
-    "Media folder/Pasted image 20230924210639.png",
-    "Media folder/Pasted image 20230924210407.png",
-    "Media folder/Pasted image 20230924204745.png",
-    "Media folder/Pasted image 20230924202522.png"
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+NP-hard [[graph]]-based problem, can be solved with [[Tabu search]]

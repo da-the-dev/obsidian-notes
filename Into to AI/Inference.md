@@ -1,5 +1,5 @@
 Is a process of making conclusion from a known knowledge base.
-Inference can be of 2 types: [[Entailment and derivation|entailment and derivation]]
+[[Basic rules of inference|Inference]] can be of 2 types: [[Entailment and derivation|entailment and derivation]]
 
 # Properties of inference
 ## Soundness

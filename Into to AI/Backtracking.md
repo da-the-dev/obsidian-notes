@@ -1,0 +1,3 @@
+- Simulate the entire game
+- Assume rational/perfect play from the opponent
+- Theoretically there is a perfect game play method if we search the entire game

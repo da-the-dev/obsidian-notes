@@ -1,0 +1,1 @@
+A [[Constant Satisfaction Problem]], solved with [[Hill climbing algorithm]].

@@ -1,7 +1,7 @@
 [
-  "table-editor-obsidian",
   "highlightr-plugin",
   "obisidian-note-linker",
   "obsidian-underline",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "markdown-table-editor"
 ]

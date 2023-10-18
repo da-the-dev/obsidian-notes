@@ -30,5 +30,13 @@
       ],
       "key": "O"
     }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "V"
+    }
   ]
 }

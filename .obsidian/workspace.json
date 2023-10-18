@@ -4,23 +4,102 @@
     "type": "split",
     "children": [
       {
-        "id": "6041e2f7bdd90594",
+        "id": "897535bbd1c0ffba",
         "type": "tabs",
         "children": [
           {
-            "id": "cbc5ad087f797f0a",
+            "id": "dcb626cfeb4711ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Phys HW 2.md",
+                "file": "Statistics/Measurement.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc39cad4d6e88177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Probability distribution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54ca50720a4bef3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Frequency distribution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44f282096df860fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Binomial probability distribution.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca9b0d830e185f46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Mean.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a72eedd2e18141a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Mean.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37087d1ea65e4202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Covariance.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -39,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PDF ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e64154e3546bfa5c",
@@ -88,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Phys HW 2.md",
+                "file": "Statistics/Mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Phys HW 2.md",
+                "file": "Statistics/Mean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Phys HW 2.md"
+                "file": "Statistics/Mean.md"
               }
             }
           },
@@ -147,7 +225,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,54 +238,53 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "cbc5ad087f797f0a",
+  "active": "ca9b0d830e185f46",
   "lastOpenFiles": [
-    "Physics/Phys HW 2.md",
-    "Into to AI/Agent.md",
-    "Into to AI/Environment.md",
-    "Into to AI/Alpha-beta pruning.md",
-    "Into to AI/Minimax.md",
-    "Into to AI/Tabu search.md",
+    "Statistics/Mean.md",
+    "Statistics/Covariance.md",
+    "Statistics/Binomial probability distribution.md",
+    "Statistics/Measurement.md",
+    "Statistics/Random variable.md",
+    "Statistics/Probability distribution.md",
+    "Statistics/Frequency distribution.md",
+    "Statistics/Probability space.md",
+    "Statistics/Histogram.md",
+    "Statistics/Probability.md",
+    "Statistics/Variance.md",
+    "Statistics/Cumulative distribution function.md",
+    "Statistics/Standard deviation.md",
+    "Statistics/Untitled.md",
+    "Statistics/Data.md",
+    "OS/Scheduling.md",
+    "Into to AI/Labs/Lab 7/week_8_lab.ipynb.be133bf5c03db73be11ebc565714aec7.tmp",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdCXX/tmp",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdCXX/a.out",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.5/CompilerIdCXX/tmp",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.5/CompilerIdCXX/a.out",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdC/tmp",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdC/a.out",
+    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdC/CMakeCCompilerId.c",
+    "Optimization/P2-Interior-points/README.md",
+    "Optimization/P1-Simplex_/README.md",
+    "Statistics/Variance 1.md",
+    "Differential equations/Higher order constant coefficient homogeneous equatuion.md",
+    "Differential equations/Linear first order differential equations.md",
+    "Differential equations/Linear high order differential equiation.md",
+    "Differential equations/First order differential equations.md",
+    "Differential equations/Homogeneous first order.md",
     "Into to AI/N-queens problem.md",
-    "Philosophy I/Graph.md",
-    "Into to AI/A*.md",
-    "Into to AI/Traveling Salesman Problem.md",
-    "Philosophy I",
-    "Into to AI/8-puzzle Problem.md",
-    "Into to AI/Utility-based agent.md",
-    "Into to AI/Constant Satisfaction Problem.md",
-    "Into to AI/Simple reflex agent.md",
-    "Into to AI/Entailment and derivation.md",
-    "Into to AI/Basic rules of inference.md",
-    "Into to AI/Backtracking.md",
-    "Into to AI/Exploration vs Exploitation.md",
-    "Into to AI/Learning agent.md",
-    "Into to AI/Logic Programming.md",
-    "Into to AI/Inference.md",
-    "Into to AI/Goal-based agent.md",
-    "asted image 20231008181838.png.md",
     "Media folder/Pasted image 20231009070041.png",
-    "Into to AI/PEAS.md",
     "Media folder/Pasted image 20231008181838.png",
     "Media folder/Pasted image 20231008181651.png",
     "Media folder/Pasted image 20231008180912.png",
-    "Into to AI/Model-based reflex agent.md",
-    "Into to AI/Rationality.md",
     "Media folder/Pasted image 20231008130848.png",
     "Media folder/Pasted image 20231008130846.png",
     "Media folder/Pasted image 20231008130844.png",
     "Media folder/Pasted image 20231008130235.png",
     "Media folder/Pasted image 20231008124454.png",
-    "Physics/Phys HW 2.pdf",
     "Media folder/IMG_2464.png",
-    "Differential equations",
-    "Optimization/P1-Simplex/build/CMakeFiles/Progress/3",
-    "Optimization/P1-Simplex/build/CMakeFiles/Progress/2",
-    "Optimization/P1-Simplex/build/CMakeFiles/Progress/4",
-    "Optimization/P1-Simplex/build/CMakeFiles/Progress/1",
-    "Optimization/P1-Simplex/build/CMakeFiles/simplex.dir/compiler_depend.make.tmp97f3f",
-    "Optimization/P1-Simplex/build/CMakeFiles/Progress/count.txt",
-    "Optimization/P1-Simplex/build/CMakeFiles/Progress",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled.canvas"

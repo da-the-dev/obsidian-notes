@@ -1,4 +1,4 @@
-[[Probability density function]] might depend on more than 1 variable. In that case, this is a joint probability function.
+[[Probability distribution]] might depend on more than 1 variable. In that case, this is a joint probability function.
 
 Example:
 $$

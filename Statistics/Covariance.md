@@ -1,12 +1,12 @@
-Covariance shows the dynamic between two variables in the same [[Joint probability]], how they [[Variance|vary]]. 
+Covariance shows the connection between two [[Random variable|random variables]] in the same [[Joint probability]], how they [[Variance|vary]]. 
+# Discrete case
 $$
-Cov(X,Y) = E[(X-E[X])(Y-E[Y])]
+\sigma_{XY}=\sum_{x}\sum_{y}(x-\mu_{X})(y-\mu_{Y})f(x,y)
 $$
+# Continuous case
+$$
+\sigma_{XY}=\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}(x-\mu_{X})(y-\mu_{Y})f(x,y)\, dx\, dy
+$$
+ where $\mu$ is a [[mean]] of a variable.
 
-For *discrete distributions*:
-$$
-Cov(X,Y)=\dfrac{1}{n-1}\sum^n_{i=1}(x_{i}-E(X))(y_{i}-E(Y))
-$$
- where:
-- $n$ is the number of values in a dataset
-- $E(A)$ is an [[Expected value|expected value]] for [[Probability distribution#Random variable|random variable]] $A$.
+If covariance is positive, then as $X$ values change, so do values of $Y$. If the variance is negative, $X$ and $Y$ values change in opposite direction

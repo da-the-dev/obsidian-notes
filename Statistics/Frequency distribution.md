@@ -1,4 +1,4 @@
-A list of values and corresponding frequencies. Similar to [[Probability distribution]].
+A list of values and corresponding frequencies. Similar to [[Probability distribution|probability distribution]].
 These can be plotted with [[Histogram|histograms]].
 # Class width
 Difference between two "lower class limits". *Must be a whole number. If not, round **up***.

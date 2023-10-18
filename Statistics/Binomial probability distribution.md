@@ -1,4 +1,4 @@
-A [[Probability distribution|probability distribution]] that has only two outcome: Success and Failure
+A [[Probability distribution]] that has only two outcome: Success and Failure
 # Rules
 1. Must have fixed number of trials
 2. Trials must be independent

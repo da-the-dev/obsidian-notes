@@ -6,7 +6,7 @@ Axis:
 Or for a [[Probability distribution]]:
 Axis:
 - <u>Horizontal</u>: Variable X
-- <u>Vertical</u>: [[Probability]]
+- <u>Vertical</u>: Probability
 # Types of curves
 ## Normal
 ![[Pasted image 20230924210639.png]]

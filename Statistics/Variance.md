@@ -1,15 +1,10 @@
-How much each data point varies from the mean. Describes the [[Probability density function]]
-# Continuous case
-$$
-Var(x) = E(x^2) - (E(x))^2
-$$
-where $E(x)$ is the [[Expected value]]. 
-Can be rewritten into
-$$
-
-$$
+How much each point varies from the [[mean]]. Describes the variability in the [[Probability distribution]]
 # Discrete case
 $$
-\sigma^{2}=\Sigma[x^{2}*P(x)] - \mu^{2}
+\sigma^{2} = E[(X-\mu)^{2}]=\sum_{x}(x-\mu)^{2}f(x)
 $$
-where $\mu$ is the [[Expected value#Discrete case|mean]] for a discrete case 
+# Continuous case
+$$
+\sigma^{2} = E[(X-\mu)^{2}]=\int_{-\infty}^{\infty} (x-\mu)^{2}f(x) \, dx 
+$$
+where $E(x)$ is the [[mean]]. 

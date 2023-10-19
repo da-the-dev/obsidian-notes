@@ -14,3 +14,9 @@ Math operations are **meaningful**.
 Data that is countable or finite (eggs, dice, etc.)
 #### Continuous
 Data cannot be counted and is infinite (height, length, etc.)
+
+# Characteristics
+## ![[Mean]]
+## ![[Variance]]
+## ![[Standard deviation]]
+## ![[Covariance]]

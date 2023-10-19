@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "897535bbd1c0ffba",
+        "id": "2c115a86cc3049db",
         "type": "tabs",
         "children": [
           {
-            "id": "dcb626cfeb4711ef",
+            "id": "771674253600e59f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistics/Measurement.md",
+                "file": "Statistics/Negative binomial distribution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,46 +21,7 @@
             }
           },
           {
-            "id": "bc39cad4d6e88177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Probability distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54ca50720a4bef3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Frequency distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44f282096df860fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Binomial probability distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca9b0d830e185f46",
+            "id": "81704bf4365c5e55",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,20 +34,7 @@
             }
           },
           {
-            "id": "6a72eedd2e18141a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Mean.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37087d1ea65e4202",
+            "id": "f1323240691deab9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "41eccdc15c241e29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Joint probability.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Mean.md",
+                "file": "Statistics/Negative binomial distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Mean.md",
+                "file": "Statistics/Negative binomial distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistics/Mean.md"
+                "file": "Statistics/Negative binomial distribution.md"
               }
             }
           },
@@ -221,12 +181,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,43 +197,43 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "ca9b0d830e185f46",
+  "active": "771674253600e59f",
   "lastOpenFiles": [
-    "Statistics/Mean.md",
-    "Statistics/Covariance.md",
-    "Statistics/Binomial probability distribution.md",
-    "Statistics/Measurement.md",
-    "Statistics/Random variable.md",
-    "Statistics/Probability distribution.md",
-    "Statistics/Frequency distribution.md",
-    "Statistics/Probability space.md",
-    "Statistics/Histogram.md",
-    "Statistics/Probability.md",
+    "Statistics/Negative binomial distribution.pdf",
+    "Statistics/Negative binomial distribution.md",
+    "Statistics/combined.md",
+    "Statistics/Bayes' Rule.md",
+    "OS/jojomemes/week07/queries.txt",
     "Statistics/Variance.md",
+    "Statistics/Covariance.md",
+    "Statistics/Joint probability.md",
+    "Statistics/Mean.md",
+    "Statistics/Data.md",
+    "Statistics/Chebyshev's Theorem.md",
+    "Statistics/Geometric disctribution.md",
     "Statistics/Cumulative distribution function.md",
     "Statistics/Standard deviation.md",
-    "Statistics/Untitled.md",
-    "Statistics/Data.md",
-    "OS/Scheduling.md",
-    "Into to AI/Labs/Lab 7/week_8_lab.ipynb.be133bf5c03db73be11ebc565714aec7.tmp",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdCXX/tmp",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdCXX/a.out",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdCXX/CMakeCXXCompilerId.cpp",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.5/CompilerIdCXX/tmp",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.5/CompilerIdCXX/a.out",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.5/CompilerIdCXX/CMakeCXXCompilerId.cpp",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdC/tmp",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdC/a.out",
-    "Optimization/P2-Interior-points/build/CMakeFiles/3.27.6/CompilerIdC/CMakeCCompilerId.c",
-    "Optimization/P2-Interior-points/README.md",
-    "Optimization/P1-Simplex_/README.md",
-    "Statistics/Variance 1.md",
-    "Differential equations/Higher order constant coefficient homogeneous equatuion.md",
-    "Differential equations/Linear first order differential equations.md",
-    "Differential equations/Linear high order differential equiation.md",
-    "Differential equations/First order differential equations.md",
-    "Differential equations/Homogeneous first order.md",
-    "Into to AI/N-queens problem.md",
+    "Statistics/Sampling.md",
+    "Statistics/Randomness.md",
+    "Statistics/Random variable.md",
+    "Statistics/Probability space.md",
+    "Statistics/Probability distribution.md",
+    "Statistics/Probability.md",
+    "Statistics/Measurement.md",
+    "Statistics/Hypergeometric distribution.md",
+    "Statistics/Histogram.md",
+    "Statistics/Frequency distribution.md",
+    "Statistics/Vocab.md",
+    "Statistics/Binomial distribution.md",
+    "Inno Books/MOS_4th_answer.pdf",
+    "MOS_4th_answer.pdf",
+    "a.md",
+    "Optimization/P1-Simplex/Constructive Report 1.pdf",
+    "Optimization/P1-Simplex/Team report.pdf",
+    "test/main",
+    "test/main.cpp",
+    "test",
+    "еуые",
     "Media folder/Pasted image 20231009070041.png",
     "Media folder/Pasted image 20231008181838.png",
     "Media folder/Pasted image 20231008181651.png",

@@ -1,5 +1,5 @@
 A [[graph]] traversal and path search algorithm.
-Graph as weighed edges and the goal is to reach the destination in the least amount of steps. To help to choose the path, we need some heuristic for each node. 
+[[Graph]] as weighed edges and the goal is to reach the destination in the least amount of steps. To help to choose the path, we need some heuristic for each node. 
 $$
 p(v) = dist(v) + h(v)
 $$

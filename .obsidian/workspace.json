@@ -4,59 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c115a86cc3049db",
+        "id": "3da199740c8171ab",
         "type": "tabs",
         "children": [
           {
-            "id": "771674253600e59f",
+            "id": "0d571a088357325e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Negative binomial distribution.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81704bf4365c5e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Mean.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1323240691deab9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Covariance.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41eccdc15c241e29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Statistics/Joint probability.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -110,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e64154e3546bfa5c",
@@ -126,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics/Negative binomial distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistics/Negative binomial distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Statistics/Negative binomial distribution.md"
-              }
+              "state": {}
             }
           },
           {
@@ -197,17 +150,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "771674253600e59f",
+  "active": "0d571a088357325e",
   "lastOpenFiles": [
-    "Statistics/combined.md",
+    "Statistics/Joint probability.md",
+    "Statistics/Covariance.md",
+    "Statistics/Mean.md",
+    "Statistics/Poisson distribution.md",
     "Statistics/Negative binomial distribution.md",
+    "_test/main.cpp",
+    "_test/main",
+    "_test",
+    "Statistics/combined.md",
     "Statistics/Negative binomial distribution.pdf",
     "Statistics/Bayes' Rule.md",
     "OS/jojomemes/week07/queries.txt",
     "Statistics/Variance.md",
-    "Statistics/Covariance.md",
-    "Statistics/Joint probability.md",
-    "Statistics/Mean.md",
     "Statistics/Data.md",
     "Statistics/Chebyshev's Theorem.md",
     "Statistics/Geometric disctribution.md",
@@ -231,9 +188,6 @@
     "Optimization/P1-Simplex/Constructive Report 1.pdf",
     "Optimization/P1-Simplex/Team report.pdf",
     "test/main",
-    "test/main.cpp",
-    "test",
-    "еуые",
     "Media folder/Pasted image 20231009070041.png",
     "Media folder/Pasted image 20231008181838.png",
     "Media folder/Pasted image 20231008181651.png",

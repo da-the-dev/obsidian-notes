@@ -7,4 +7,4 @@ $$
 $$
 \sigma^{2} = E[(X-\mu)^{2}]=\int_{-\infty}^{\infty} (x-\mu)^{2}f(x) \, dx 
 $$
-where $E(x)$ is the [[mean]]. 
+where $\mu$ is the [[mean]]. 

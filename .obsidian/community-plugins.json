@@ -4,5 +4,7 @@
   "obsidian-underline",
   "obsidian-latex-suite",
   "markdown-table-editor",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-regex-pipeline",
+  "obsidian-regex-replace"
 ]

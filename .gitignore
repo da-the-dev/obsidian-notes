@@ -2,7 +2,7 @@
 .obsidian-ocr.sqlite
 .obsidian/workspace.json
 .obsidian/graph.json
-.obsidian/apperence.json
+.obsidian/appearance.json
 
 **/Labs
 Phys HW*
@@ -10,6 +10,7 @@ Inno Books/
 /OS/jojomemes/
 /Optimization/Optimization assignments
 /Optimization/P1-Simplex/
+/Optimization/P2-Interior-points/
 /Into to AI/Assignments
 _*/
 _*

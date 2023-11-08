@@ -36,7 +36,7 @@ where $P$ will be our optimum value. Now let's build a table.
   | t              | 1   | 0   | 2   | 0   | 0   | 1   | 30    | $R_{3}$        |
   | P              | -3  | -4  | -5  | 0   | 0   | 0   | 0     | $R_{4}$        |
 4. Do an iteration
-	To do so, first, find a **column** with the **lowest** value in the **objective row** ($R_{4}$ in this case). In this case the column is $z$ and it is called the **pivot column**.
+	To do so, first, find a **column** with the **lowest** value in the **objective row**. In this case the column is $z$ and it is called the **pivot column**.
 	Then, calculate $\theta$s as $\theta=\dfrac{value}{pivot\ column}$
 	The **row** with the **smallest non-negative** $\theta$ is the **pivot row**.,
 	The variable that is the intersection of the pivot row with the pivot column is the **pivot variable**. 

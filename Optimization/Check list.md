@@ -1,6 +1,0 @@
-- [x] $c_{1}, c_{2}$ stuff of LPPs
-- [ ] Unconstrained dual problems
-- [ ] Interior point method
-	- [x] What is an [[NLP]]
-- [ ] Two Phase method (practice)
-- [ ] Advanced Linear Programming

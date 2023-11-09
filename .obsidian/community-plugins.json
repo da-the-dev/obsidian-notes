@@ -6,5 +6,6 @@
   "markdown-table-editor",
   "obsidian-git",
   "obsidian-regex-pipeline",
-  "obsidian-regex-replace"
+  "obsidian-regex-replace",
+  "nuke-orphans"
 ]

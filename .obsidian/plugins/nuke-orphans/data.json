@@ -1,0 +1,7 @@
+{
+  "attachmentsPaths": [],
+  "trashFolderOverride": "",
+  "ignorePatterns": [
+    "^.*\\.(?!png$)[^.]+$|^[^.]+$"
+  ]
+}

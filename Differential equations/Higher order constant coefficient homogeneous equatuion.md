@@ -17,7 +17,7 @@ Solutions of the characteristic equation describe the particular solutions of th
 Once all particular solutions are obtained, we can formulate a general solution.
 ## Cases for characteristic polynomial
 ### Repeated roots
-In this case, the fundamental set of solution for
+In this case, the fundamental set of solutions for
 $$
 (r-a)^{m}=0
 $$
@@ -45,5 +45,8 @@ And the general solution is:
 $$
 y = e^{-1}(c_{1}+c_{2}x+c_{3}x^{2})
 $$
+# References
+https://www.youtube.com/watch?v=iQoAbO_xlFs&list=PLj7p5OoL6vGyLV13uqgYEQHN7D57g1lPZ
+
 
 

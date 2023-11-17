@@ -2,11 +2,7 @@ A [[First order differential equations|first order differential equation]] is sa
 $$
 y' + p(x)y = f(x)
 $$
-A first order differential equation that can be written like this, then this equation *nonlinear*.
-
-# Homogeneity 
-A LFOD equation is call *homogeneous* if $f \equiv 0$, otherwise it is *nonhomogeneous*. 
-
+This is also a *nonhomogeneous* equation. However, if $f(x) \equiv 0$, then it would be *homoegeneous*.
 # General solution
 Example *first order* equation:
 $$
@@ -37,4 +33,4 @@ So $u$ is an integral:
 $$
 u = \int \dfrac{f(x)}{y_{1}(x)} \, dx 
 $$
-Since $y=uy_{1}$, substitute $u$ and get a general solution.
+Since $y=uy_{1}$, substitute $u$ and get a general solution. This method is called **variation of parameters**

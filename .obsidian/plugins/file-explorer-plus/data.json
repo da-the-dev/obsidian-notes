@@ -1,0 +1,36 @@
+{
+  "hideStrictPathFilters": true,
+  "pinFilters": {
+    "active": true,
+    "tags": [],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      }
+    ]
+  },
+  "hideFilters": {
+    "active": true,
+    "tags": [],
+    "paths": [
+      {
+        "name": "Hide P\\d folders",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Optimization/P\\d",
+        "patternType": "REGEX"
+      },
+      {
+        "name": "Hide physics homeworks",
+        "active": false,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "Physics/Phys HW \\d.md",
+        "patternType": "REGEX"
+      }
+    ]
+  }
+}

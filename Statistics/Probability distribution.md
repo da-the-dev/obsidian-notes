@@ -23,9 +23,9 @@ $$
 $$
 # PDF, CDF, PMF
 ## PDF
-Probability density function. Describes the behavior of a [[Data#Continuous|continuous]] random variable.
+[[Probability]] density function. Describes the behavior of a [[Data#Continuous|continuous]] random variable.
 ## PMF
-Probability mass function. Describes the behavior of a [[Data#Discrete|discrete]] random variable.
+[[Probability]] mass function. Describes the behavior of a [[Data#Discrete|discrete]] random variable.
 ## CDF
 Cumulative density function. Shows the probability that $X$ will take a value less than or equal to $x$.
 ### Discrete case

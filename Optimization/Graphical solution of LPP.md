@@ -1,7 +1,7 @@
 Graphical solution of [[LPP]] consists of:
 - Drawing the graphs of the constraints
 - Finding one area where all constraints intersect
-	- If such area does not exists, the LPP does not have a solution
+	- If such area does not exists, the [[LPP]] does not have a solution
 - Find gradient of the objective function
 - Find the min/max point out of all feasible points
 # Basic solutions

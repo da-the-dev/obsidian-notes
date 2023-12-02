@@ -2,7 +2,7 @@ Same as [[Simplex method]], but add artificial variables if the inequality has $
 ## On slack, surplus, and artificial variables
 To get basic variables, we add slack, surplus, and artificial variables.
 - If the inequality has $\leq$, we add *slack* variables.
-- If the inequality has $>=$, we add *surplus* **and** *artificial* variables.
+- If the inequality has $\geq$, we add *surplus* **and** *artificial* variables.
 - If we have an equation, we add *artificial* variables **as needed**.
 
 **The general idea of these variables is to have $2m$ variables for $m$ equations. We might not need to add some variables in some cases**

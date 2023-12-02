@@ -1,4 +1,4 @@
-SThis method, as the name implies, consists of two phases. This method uses the same tableau as the [[Simplex method]].
+This method, as the name implies, consists of two phases. This method uses the same tableau as the [[Simplex method]].
 # Phase I
 Put the problem in [[LPP#Standard form|standard form]] and add the necessary [[Big M method#On slack, surplus, and artificial variables|artificial variables]] to the constraints. Next, find a [[Types of solutions#Basic solutions|basic solution]] of the resulting equations that always **minimizes the sum of the [[Big M method#On slack, surplus, and artificial variables|artificial variables]]**.
 If the minimum value of the sum is positive, the [[LPP]] has no [[Types of solutions#Feasible solution|feasible solution]]. Otherwise, proceed to Phase II.
@@ -21,7 +21,7 @@ Now we add necessary variables and minimize the sum of artificial variables *(or
 
 $$
 \begin{matrix*}[l]
-maximize & r+R_{1}+R_{2} \\
+maximize & r=R_{1}+R_{2} \\
 s.t.
 & 3x_{1}+x_{2}+R_{1}=3 \\ 
 & 4x_{1}+3x_{2}-x_{3}+R_{2}=6 \\ 

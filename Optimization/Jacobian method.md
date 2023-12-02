@@ -7,10 +7,10 @@ minimize & f(\textbf{X})=z \\
 s.t. & g(\textbf{X})=0
 \end{matrix*}
 $$
-We need to separate variables into dependent and independent:
-$\textbf{Y}=(y_{1},\dots,y_{m})$ 
-$\textbf{Z}=(z_{1},\dots,y_{z})$
-Jacobian matrix:
+We need to separate variables into independent and dependent respectively:
+$\textbf{Y}=(y_{1},\dots,y_{n})$ 
+$\textbf{Z}=(z_{1},\dots, z_{m})$
+[[Jacobian|Jacobian matrix]]:
 $$
 J=\nabla _{\textbf{Y}}\textbf{g}=
 \begin{bmatrix}
@@ -162,7 +162,7 @@ $$
 $$
 $$
 \begin{align}
-\dfrac{\partial f}{\partial \textbf{g}}&=\nabla_{\textbf{Y}_{0}}fJ^{-1} \\ \\
+\dfrac{\partial f}{\partial \textbf{g}}&=\nabla_{\textbf{Y}_{0}}fJ^{-1} \\
 &=(1.62, 0.70)\begin{bmatrix}
 -\dfrac{2}{3}  & \dfrac{1}{3} \\
 \dfrac{5}{3}  & -\dfrac{1}{3}

@@ -1,3 +1,4 @@
+!!!TODO rewrite
 Dual problem allows to prove that the optimum solution for an [[LPP]] is valid. Dual problem is constructed from a main problem (later called *primal*) in such a way that the solution to the dual problem is no less that the solution for the primal problem.
 # Weak duality theorem
 Consider this problem
@@ -34,6 +35,7 @@ s.t. & y_{1} + y_{3} \geq 1.2 \\
 $$
 In the end we obtain a new [[LPP]]. The meaning of this problem is "how much can I max out the primal constraints, so that I the closest value to the optimum can get". 
 The **weak duality theorem** states that if a feasible solution to either primal or dual exists, then **solutions to the primal are always lesser or equal to the dual.** 
+![[Pasted image 20231127232620.png]]
 # Strong duality theorem
 Same as the [[Duality#Weak duality theorem|Weak duality theorem]], but if **a solution exists** for either prime or dual, it is the same solution for both.
 # References

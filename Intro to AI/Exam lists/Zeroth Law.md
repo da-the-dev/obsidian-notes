@@ -1,0 +1,1 @@
+A robot may not injure HUMANITY, or, through inaction, allow HUMANITY to come to harm

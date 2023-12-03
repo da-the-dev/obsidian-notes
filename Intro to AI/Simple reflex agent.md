@@ -6,7 +6,6 @@ Basically an if statement
 
 **if** *car-in-front-is-braking* **then** *brake*
 
-
 # Summary
 - Only current percept matters
 - Work only in fully observable environment

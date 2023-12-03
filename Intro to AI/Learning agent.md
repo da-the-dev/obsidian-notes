@@ -1,4 +1,4 @@
-Unlike regular agents, this [[agent]] does not come with a given agent program. It develops one for itself.
+Unlike regular agents, this [[IU Notes/Intro to AI/Agent|agent]] does not come with a given agent program. It develops one for itself.
 A learning agent consists of X parts:
 - Learning element - uses feedback from the critic to make effective adjustments
 - Performance element - entity that selects external actions to use. Sometimes it is a whole agent.

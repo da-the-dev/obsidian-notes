@@ -3,10 +3,6 @@
 - Clone the repo, open it in [Obsidian](https://obsidian.md/).
 - Allow trust authors and enable plugins.
 - You call update the contents of the vault with the latest changes by pressing `Ctrl+Shift+p`
-<<<<<<< HEAD
-# How to navigate
-- Subjects are broken down into atomic ideas that are represented as notes, which later can be linked with each other like Wikipedia references, or like the WWW. Main advantage over taking notes in sequence (one lecture after the other) is that it's easy to add new info to old topics
-- You can contribute your notes and expand this repo into a gigachad knowledge database.
 ## Navigate
 - *Idea* – Subjects are broken down into atomic ideas that are represented as notes, which later can be linked with each other like Wikipedia references, or like the WWW. Main advantage over taking notes in sequence (one lecture after the other) is that it's easy to add new info to old topics
 - There are **Exam lists** – files that compile topics to a certain exam. To find them either:

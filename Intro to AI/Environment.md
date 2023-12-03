@@ -35,6 +35,12 @@ The environment changes in like a smooth curve (real world, things happen contin
 The author of the actor understand the environment completely.
 ### Unknown
 The author of the actor does not understand the environment completely.
-
-
-
+# Acronym
+ OMUT_CDK:
+- Observability
+- Multiplicity
+- Uncertainty
+- Timeframe
+- Changability
+- Discreteness
+- Knowledge

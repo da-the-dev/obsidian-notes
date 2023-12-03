@@ -3,10 +3,10 @@ Imagine a drug study. Drug A and B are tested on a large population. Some people
 
 p-values help us decide whether we should reject the [[Hypothesis testing#Null hypothesis|Null hypothesis]] or not during [[Hypothesis testing]]
 # Lecture definition
-Often we will want to figure the probability of making a [[Types of errors#Type I|Type I]] error exactly! The test is only ensuring it is meeting with set [[confidence]]. For this we compute a P-value of the test
+Often we will want to figure the probability of making a [[Types of errors#Type I|Type I]] error exactly! The test is only ensuring it is meeting with set [[Confidence]]. For this we compute a P-value of the test
 We say that tests which have a:
-- P-value $< 0.05$ are "statistically significant" $\to \alpha > .95 \text{ or } 95\%$ [[confidence]]
-- P-value $< 0.01$ are "extremely (very) statistically significant" $\to \alpha > .99 \text{ or } 99\%$ [[confidence]]
+- P-value $< 0.05$ are "statistically significant" $\to \alpha > .95 \text{ or } 95\%$ [[Confidence]]
+- P-value $< 0.01$ are "extremely (very) statistically significant" $\to \alpha > .99 \text{ or } 99\%$ [[Confidence]]
 # References
 https://www.youtube.com/watch?v=vemZtEM63GY&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=12
 https://www.youtube.com/watch?v=JQc3yx0-Q9E&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&index=13

@@ -20,3 +20,10 @@ You can contribute your notes and expand this repo into a gigachad knowledge dat
 **For IU students**: there's and ongoing issue [#3](https://github.com/da-the-dev/obsidian-notes/issues/3) that asks to make topic lists for exams. This would simplify navigation. I would appreciate any help with this.
 # Useful notes
 - If a link is purple, you can click it and you'll go to a note. If a link is dark purple, that means that the note for that link does not exist yet.
+- You can toggle reader mode with `Ctrl-e`
+- If a link is purple, you can click it and you'll go to a note. If a link is dark purple, that means that the note for that link does not exist yet.
+
+| Keybind | Command |
+|:--------|:--------|
+|         |         |
+|         |         |  

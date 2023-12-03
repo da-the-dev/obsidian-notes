@@ -15,7 +15,8 @@ Logic
 - Knowledge base by programmer/user
 - Queries from User
 - Rapid deployment and prototyping as the language has the inference engine by default
-# Prolog
-Prolog is a general-purpose logic programming language associated
+# PROLOG
+[[PROLOG]] is a general-purpose logic programming language associated
 with artificial intelligence and computational linguistics.
-Prolog stands for **Pro**gramming in **Lo**gic.
+[[PROLOG]] stands for **Pro**gramming in **Lo**gic.
+![[PROLOG]]

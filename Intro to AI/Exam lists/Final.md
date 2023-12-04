@@ -13,3 +13,4 @@ aliases:
 - [ ] Statistics: [[Vocab]], [[Variance]], [[Random sample variance]], [[Hypothesis testing]], [[Confidence]], [[Power]], [[T-tests]]
 - [ ] [[MCTS]]
 - [ ] [[Evolutionary algorithms]]
+- [ ] [[PDDL]]

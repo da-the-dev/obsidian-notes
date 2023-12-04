@@ -1,0 +1,6 @@
+- [[Perceptron|Single layer]] can only deal with linearly separable problems
+- To deal with multiple dimensions the network needs to expand in the number of layers
+	- Increases the dimensionality; everything in a high dimensional space BECOMES linearly separable
+- As this expands larger and larger the type of problems which can be faced expands
+	- [[Deep learning]]
+	- Beware of Overtraining

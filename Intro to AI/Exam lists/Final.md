@@ -14,3 +14,4 @@ aliases:
 - [ ] [[MCTS]]
 - [ ] [[Evolutionary algorithms]]
 - [ ] [[PDDL]]
+- [ ] [[Artificial Neural Networks]] (check links)

@@ -12,7 +12,7 @@
 		- Unless $L$ ends the game with a win/loss for either player, either create one or more child nodes or choose from them node $C$
 	3. Simulation
 		- Play a random game from node $C$. The steps for a game a chosen randomly out of those that are possible. This game simulation is what is called a playout.
-	4. Backpropagation
+	4. [[Backpropagation]]
 		1. Use the result of the playout to update information in the nodes on the path from $C$ to $R$
 # Exploration vs Exploitation
 The main challenge for this algorithm arises when balancing [[Exploration vs Exploitation]]. Usually the UCT (Upper Confidence Bound 1 applied to trees) formula is used:

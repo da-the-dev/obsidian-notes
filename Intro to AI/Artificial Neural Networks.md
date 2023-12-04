@@ -34,12 +34,12 @@ Specified by:
 - Initialize the weights in the network (often randomly)
 - `repeat`
 	- `for each example e in the training set do`
-	- `O = neural-net-output(network, e); // forward pass`
-	- `T = teacher output for e;`
-	- Calculate error $(T - O)$ at the output units;
-	- Compute $w_{j} = w_{j} +a * Err * I_{j}$ for all weights from hidden layer to output layer *(backward pass)*
-	- Compute $w_{j} = w_{j} +a * Err * I_{j}$ for all weights from input layer to hidden layer
-	- Update the weights in the network to the new weights;
+		- `O = neural-net-output(network, e); // forward pass`
+		- `T = teacher output for e;`
+		- Calculate error $(T - O)$ at the output units;
+		- Compute $w_{j} = w_{j} +a * Err * I_{j}$ for all weights from hidden layer to output layer *(backward pass)*
+		- Compute $w_{j} = w_{j} +a * Err * I_{j}$ for all weights from input layer to hidden layer
+		- Update the weights in the network to the new weights;
 	- `end for`
 - `until all examples classified correctly or stopping criterion met`
 - `return(network)`

@@ -22,18 +22,21 @@ $$
 y=c_{1}e^{r_{1}x}+c_{2}e^{r_{2}x}+\dots+c_{n}e^{r_{n}x}
 $$
 ## Real repeated root
-If the repeated root is $a$m then:
+If the repeated root is $a$, then:
 $$
 y=e^{ax}+xe^{ax}+\dots+x^{m-1}e^{ax}
 $$
 ## Imaginary distinct roots
 For imaginary roots $m_{1}=a+bi$ and $m_{2}=a-bi$:
 $$
-y= c_{1}e^{ax}\cos (bx) + c_{2}e^{ax}\sin(bx)
+y= c_{1}e^{ax}\cos (bx)+c_{2}e^{ax}\sin(bx)
 $$
 ## Imaginary repeated roots
 $$
-{}
+\begin{align}
+y&=(c_{1}+c_{2}x+\dots+c_{n}x^{n-1})e^{ax}\cos(bx)+\\
+&+(c_{n+1}+c_{n+2}x+\dots+c_{2n}x^{n-1})e^{ax}\sin(bx)=0
+\end{align}
 $$
 #### Example
 $$

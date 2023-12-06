@@ -2,7 +2,7 @@ A [[First order differential equations|first order differential equation]] is sa
 $$
 y' + p(x)y = f(x)
 $$
-This is also a *nonhomogeneous* equation. However, if $f(x) \equiv 0$, then it would be *homoegeneous*.
+This is also a *non-homogeneous* equation. However, if $f(x) \equiv 0$, then it would be *homogeneous*.
 # General solution
 Example *first order* equation:
 $$
@@ -18,8 +18,8 @@ $$
 y'+p(x)y=f(x)
 $$
 Once a <u>general solution</u> $y=y(x,c)$ is obtained, if we have an [[Initial value problem|initial value]] we can substitute and find $c$.
-## Case for nonhomogeneous 
-If the equation is nonhomogeneous, i.e. $y' + p(x)y = f(x)$, then solve a *complementary equation*
+## Case for non-homogeneous 
+If the equation is non-homogeneous, i.e. $y' + p(x)y = f(x)$, then solve a *complementary equation*
 $$
 y' + p(x)y = 0
 $$

@@ -1,4 +1,4 @@
-A linear high order differential equation is a [[Differential equations|differential equation]] of the form:
+A [[Differential equations#Linear|inear]] high-order [[Differential equations|differential equation]] is an equation of the form:
 $$
 \begin{cases}
 P_{0}(x)y^{(n)}+P_{1}(x)y^{(n-1)}+\dots+P_{n}(x)y=F(x) \\
@@ -10,8 +10,6 @@ $$
 y^{(n)}+p(x)y^{(n-1)}+\dots+p_{n}(x)y=f(x)
 $$
 with $p_{n} = \dfrac{P_{n}}{P_{0}}$ and $\dfrac{F}{P_{0}}$ ($P_{0}$ has no zeros)
-# Homogeneous LHODs
-If $F \equiv 0$ then LHOD is homogeneous, non-homogeneous otherwise.
 
 # Finding a general solution
 Knowing a set of solutions of a LHOD a general solution looks like this:
@@ -67,7 +65,7 @@ c_{3}
 \end{pmatrix}
 $$
 
-The Wronskian is
+The [[Wronskian]] is
 $$
 W=\begin{vmatrix}
 y_{1} & y_{2} & y_{3}  \\
@@ -101,4 +99,5 @@ c_{3}
 \end{pmatrix}
 $$
 We have proved that $y_{1},y_{2},y_{3}$ are linearly independent solutions and the assumption of the general solution equation holds
+TODO redo links
 

@@ -1,4 +1,4 @@
-[[Differential equations]] of type:
+[[First order differential equations]] of type:
 $$
 y'=f(x)g(y)
 $$

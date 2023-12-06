@@ -1,4 +1,4 @@
-Homogeneous FO equations are a type of [[Differential equations]] of the form
+[[Differential equations#Homogeneous|Homogeneous]] FOD equations are a type of [[differential equations]] of the form
 $$
 M(x,y)dx + N(x,y)dy = 0
 $$
@@ -22,3 +22,4 @@ $$
 p(x)=\dfrac{My-N_{x}}{N}
 $$
 If $p(x)$ is independent of $y$
+TODO

@@ -5,5 +5,10 @@ $$
 n(x; \mu, \sigma) = \dfrac{1}{\sqrt{ 2\pi }\sigma}e^{-\frac{1}{2\sigma^{2}}(x-\mu)^{2}}, -\infty<x<\infty
 $$
 A [[random variable]] that has a bell curve as the distribution is called a **normal random variable**.
-
+# Normal to binomial
+If $X$ is a [[Binomial distribution#Random variable|binomial random variable]] with mean $\mu = np$ and variance $\sigma^{2}=npq$,
+then the limiting form of the distribution of:
+$$
+Z=\dfrac{X-np}{\sqrt{ npq }}
+$$
 

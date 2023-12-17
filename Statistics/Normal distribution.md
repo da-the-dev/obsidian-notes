@@ -13,8 +13,13 @@ Z=\dfrac{X-np}{\sqrt{ npq }}
 $$
 as $n \to \infty$
 When $n$ is small and $p$ is reasonably close to $\dfrac{1}{2}$, then:
+1. If $p$ is greater or equal to $\dfrac{1}{2}$:
 $$
 Z=\dfrac{X+0.5-np}{\sqrt{ npq }}
+$$
+2. If $p$ is less or equal to $\dfrac{1}{2}$:
+$$
+Z=\dfrac{X-0.5-np}{\sqrt{ npq }}
 $$
 $0.5$ is a **continuity correction**
 

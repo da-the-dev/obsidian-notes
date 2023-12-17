@@ -11,4 +11,5 @@ then the limiting form of the distribution of:
 $$
 Z=\dfrac{X-np}{\sqrt{ npq }}
 $$
+as $n \to \infty$
 

@@ -12,4 +12,10 @@ $$
 Z=\dfrac{X-np}{\sqrt{ npq }}
 $$
 as $n \to \infty$
+When $n$ is small and $p$ is reasonably close to $\dfrac{1}{2}$, then:
+$$
+Z=\dfrac{X+0.5-np}{\sqrt{ npq }}
+$$
+$0.5$ is a **continuity correction**
+
 

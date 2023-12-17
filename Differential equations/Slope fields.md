@@ -1,3 +1,4 @@
+Also called direction fields, isoclines (direct translation from Russian books)
 Most of the time we cannot solve the a [[Differential equations|differential equation]]. However, we can approximate.
 # Idea
 - First derivative represents *slopes*

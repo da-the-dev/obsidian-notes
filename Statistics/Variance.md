@@ -1,4 +1,3 @@
-
 How much each point varies from the [[mean]]. Describes the variability in the [[Probability distribution]]
 # Discrete case
 $$

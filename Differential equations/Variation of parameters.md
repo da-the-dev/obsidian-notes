@@ -48,4 +48,5 @@ u_{1} =\int u_{1}' +c_{1}  \, dx & u_{2} =\int u_{2}' \, dx +c_{2}
 \end{matrix*}
 $$
 Now, we can substitute back $u_{1}$ and $u_{2}$ to get the general solution
-
+# References
+http://mathprofi.ru/metod_variacii_proizvolnyh_postoyannyh.html

@@ -1,0 +1,10 @@
+- [ ] [[Normal distribution]]
+- [ ] [[Normal distribution#Normal to binomial|Normal to binomial]]
+- [ ] [[Chi-squared distribution]]
+- [ ] Function of random variables
+- [ ] Moment-generating functions 
+- [ ] CLT
+- [ ] t-distribution
+- [ ] [[Confidence intervals]]
+- [ ] Test one sample means
+- [ ] Theoretical questions ([[hypothesis testing]])

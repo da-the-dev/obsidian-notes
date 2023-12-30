@@ -1,5 +1,6 @@
 ```table-of-contents
 ```
+
 # How-to
 ## Install
 - Clone the repo, open it in [Obsidian](https://obsidian.md/).

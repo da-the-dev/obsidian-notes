@@ -30,6 +30,13 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "Physics/Phys HW \\d.md",
         "patternType": "REGEX"
+      },
+      {
+        "name": "Hide Assignments",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Assignments",
+        "patternType": "REGEX"
       }
     ]
   }

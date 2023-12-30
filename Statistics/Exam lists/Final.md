@@ -1,10 +1,16 @@
+---
+aliases:
+  - Statistics Final
+  - Probstat Final
+---
+
 - [ ] [[Normal distribution]]
 - [ ] [[Normal distribution#Normal to binomial|Normal to binomial]]
 - [ ] [[Chi-squared distribution]]
-- [ ] Function of random variables
-- [ ] Moment-generating functions 
-- [ ] CLT
-- [ ] t-distribution
+- [ ] [[Transformations of random variables|Function of random variables]]
+- [ ] [[Moments and Moment-Generating functions|Moment-generating functions]] 
+- [ ] [[Central Limit theorem]]
+- [ ] [[t-distribution]]
 - [ ] [[Confidence intervals]]
 - [ ] Test one sample means
 - [ ] Theoretical questions ([[hypothesis testing]])

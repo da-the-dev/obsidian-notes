@@ -1,0 +1,39 @@
+These are mostly legacy courses, but it's still nice to have for organization. Any help is appreciated.
+
+- [ ] Differential equations
+	- [x] [[Midterm|Differential equations Midterm]]
+		- [x] Add topics
+		- [ ] Link topics
+	- [ ] [[Differential equations/Exam lists/Final|Differential equations Final]]
+		- [x] Add topics
+		- [ ] Link topics
+- [x] Intro to AI
+	- [x] Final
+		- [x] Add topics
+		- [x] Link topics
+- [ ] Optimization
+	- [ ] [[Optimization/Exam lists/Test 1|Test 1]]
+		- [ ] Add topics
+		- [ ] Link topics
+	- [ ] [[Optimization/Exam lists/Midterm|Midterm]]
+		- [ ] Add topics
+		- [ ] Link topics
+	- [ ] [[Optimization/Exam lists/Test 2|Test 2]]
+		- [ ] Add topics
+		- [ ] Link topics
+	- [ ] [[Optimization/Exam lists/Final|Final]]
+		- [ ] Add topics
+		- [ ] Link topics
+- [ ] Statistics
+	- [ ]  [[Statistics/Exam lists/Test 1|Test 1]]
+		- [ ] Add topics
+		- [ ] Link topics
+	- [ ] [[Statistics/Exam lists/Midterm|Midterm]]
+		- [ ] Add topics
+		- [ ] Link topics
+	- [ ] [[Statistics/Exam lists/Test 2|Test 2]]
+		- [ ] Add topics
+		- [ ] Link topics
+	- [x] [[Statistics/Exam lists/Final|Final]]
+		- [x] Add topics
+		- [x] Link topics 

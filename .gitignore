@@ -3,6 +3,11 @@
 .obsidian/workspace.json
 .obsidian/appearance.json
 
+/.venv
+/venv
+.venv
+venv
+
 **/Labs
 Phys HW*
 Inno Books/

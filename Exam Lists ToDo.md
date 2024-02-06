@@ -1,3 +1,7 @@
+---
+tags:
+  - examlist
+---
 These are mostly legacy courses, but it's still nice to have for organization. Any help is appreciated.
 
 - [ ] Differential equations

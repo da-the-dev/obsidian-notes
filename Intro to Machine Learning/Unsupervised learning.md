@@ -1,0 +1,1 @@
+An unsupervised learning algorithm is a [[Machine learning]] algorithm that works on a dataset that **does not include** desired solutions. The system tries to learn without a teacher.

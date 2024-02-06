@@ -1,0 +1,1 @@
+A set of independent variables in [[Machine learning]]

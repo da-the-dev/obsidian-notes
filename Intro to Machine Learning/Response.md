@@ -1,0 +1,1 @@
+A variable *(set?)* that is basically an answer for a given instance. An example would be a price for a real estate asset. That prices would be determined by its [[predictors]].

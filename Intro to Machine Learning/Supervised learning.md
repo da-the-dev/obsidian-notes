@@ -1,0 +1,1 @@
+A supervised learning algorithm is a [[Machine learning]] algorithm that works on a dataset that **includes** desired solutions (a.k.a. labels)

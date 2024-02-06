@@ -1,0 +1,1 @@
+A type of task that asks a [[Machine learning]] algorithm to classify instances based on their [[Predictors]]. 

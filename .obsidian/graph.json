@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#examlist  ",
+  "search": "-tag:#examlist -path:\"Cooking with Jessy\" -file:\"Phys\" -file:\"README\" -file:\"AUTHORS\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -29,17 +29,10 @@
       }
     },
     {
-      "query": "path:\"Into to AI\"  ",
+      "query": "path:\"Intro to AI\"  ",
       "color": {
         "a": 1,
         "rgb": 14701276
-      }
-    },
-    {
-      "query": "path:OS  ",
-      "color": {
-        "a": 1,
-        "rgb": 13311
       }
     },
     {
@@ -55,18 +48,32 @@
         "a": 1,
         "rgb": 65471
       }
+    },
+    {
+      "query": "path:\"Intro to Machine Learning\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "path:\"OS\" ",
+      "color": {
+        "a": 1,
+        "rgb": 11007
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -1.6,
   "nodeSizeMultiplier": 1.23745454545455,
   "lineSizeMultiplier": 3.44836363636364,
   "collapse-forces": false,
-  "centerStrength": 0.341372912801484,
-  "repelStrength": 14.4791666666667,
-  "linkStrength": 0.895833333333333,
-  "linkDistance": 209,
-  "scale": 0.05639426207613688,
+  "centerStrength": 0.585925925925926,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.19521554570128985,
   "close": false
 }

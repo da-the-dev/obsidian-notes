@@ -1,6 +1,5 @@
 [
   "highlightr-plugin",
-  "obisidian-note-linker",
   "obsidian-underline",
   "obsidian-latex-suite",
   "markdown-table-editor",
@@ -10,5 +9,6 @@
   "nuke-orphans",
   "file-explorer-plus",
   "table-editor-obsidian",
-  "automatic-table-of-contents"
+  "automatic-table-of-contents",
+  "content-linker"
 ]

@@ -35,13 +35,13 @@ Considering that that a unique solution exists, use [[Crammer's rule]]:
 $$
 \begin{matrix*}[l]
 \Delta_{u_{1}}=\begin{vmatrix}
-0 & u_{1}' \\
-\dfrac{f(x)}{a_{0}(x)} & u_{2}'
+0 & y_{2} \\
+\dfrac{f(x)}{a_{0}(x)} & y_{2}'
 \end{vmatrix}
 &
 \Delta_{u_{2}}=\begin{vmatrix}
-u_{1}' & 0 \\
-u_{2}' & \dfrac{f(x)}{a_{0}(x)}
+y_{1} & 0 \\
+y_{1}' & \dfrac{f(x)}{a_{0}(x)}
 \end{vmatrix} \\
 u_{1}'=\dfrac{\Delta_{u_{1}}}{W} & u_{2}'=\dfrac{\Delta_{u_{2}}}{W} \\
 u_{1} =\int u_{1}' +c_{1}  \, dx & u_{2} =\int u_{2}' \, dx +c_{2}

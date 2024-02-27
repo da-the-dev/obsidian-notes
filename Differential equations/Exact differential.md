@@ -1,4 +1,4 @@
-Also called full differential, is a type of [[Linear first order differential equations|first order differential equation]]:
+- [ ] Also called full differential, is a type of [[Linear first order differential equations|first order differential equation]]:
 $$
 M(x,y)dx + N(x,y)dy = 0
 $$

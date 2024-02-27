@@ -2,6 +2,8 @@
 aliases:
   - Statistics Final
   - Probstat Final
+tags:
+  - examlist
 ---
 
 - [ ] [[Normal distribution]]

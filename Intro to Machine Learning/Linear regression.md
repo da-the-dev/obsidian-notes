@@ -8,8 +8,9 @@ To find $w_{0}, w_{1}$, we should use [[MSE]] as our [[loss function]]:
   ![[MSE#^MSE]]
 Here $\hat{y}$ is the same as the [[objective function]]:
   $$
-\hat{y} = f(x_{i})=w_{0}+w_{1}x_{i}
+\hat{y} = f(x_{i})=w_{0}+w_{1}x_{1}
 $$
+
 Then the loss function is:
   $$
 L(w_{0}, w_{1})=\dfrac{1}{n}\sum^{n}_{i=1}(y_{i}-(w_{0}+w_{1}x_{i}))^{2}

@@ -1,3 +1,11 @@
+---
+aliases:
+  - Accuracy
+  - Precision
+  - Recall
+  - F1 score
+---
+
 After we have trained our model we would like to know how well this model performs. We measure that with different metrics.
 # Accuracy
 Accuracy gives an overall idea of how often the classifier is correct.

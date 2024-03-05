@@ -3,11 +3,11 @@ tags:
   - TODO
 ---
 # Step 1. Mapping strong entity types
-- For each [[Entity types#Strong entity|strong entity]] type $\textcolor{red}{E}$ in the entity relation schema, create a [[relation]] $\textcolor{lightgreen}{R}$ that includes all the simple attributes of $\textcolor{red}{E}$.
+- For each [[Entity types#Strong entity|strong entity]] type $\textcolor{red}{E}$ in the entity relation schema, create a [[Relational model#Relation|relation]] $\textcolor{lightgreen}{R}$ that includes all the simple attributes of $\textcolor{red}{E}$.
 - Choose one of the key attributes of $\textcolor{red}{E}$ as the [[Keys#Primary key|primary key]] for $\textcolor{lightgreen}{R}$.
 - If the chosen key of $\textcolor{red}{E}$ is composite, the set of simple attributes that form it will together form the [[Keys#Primary key|primary key]] of $\textcolor{lightgreen}{R}$
 # Step 2. Mapping weak entity types
-- For each [[Entity types#Weak entity|weak entity]] type $\textcolor{aqua}{W}$ in the entity relation schema with owner entity type $\textcolor{red}{E}$, create a [[relation]] $\textcolor{lightgreen}{R}$ and include attributes of $\textcolor{aqua}{W}$ as attributes of $\textcolor{lightgreen}{R}$.
+- For each [[Entity types#Weak entity|weak entity]] type $\textcolor{aqua}{W}$ in the entity relation schema with owner entity type $\textcolor{red}{E}$, create a [[Relational model#Relation|relation]] $\textcolor{lightgreen}{R}$ and include attributes of $\textcolor{aqua}{W}$ as attributes of $\textcolor{lightgreen}{R}$.
 - Include the [[Keys#Primary key|primary key]] attributes of the relation that correspond to the owner entity types as [[Keys#Foreign key|foreignf key]] attributes of $\textcolor{lightgreen}{R}$.
 - The primary key of $\textcolor{lightgreen}{R}$ is the combination of the [[Keys#Primary key|primary key]] of the owner and the [[Keys#Partial key|partial key]] of the [[Entity types#Weak entity|weak entity]] type $\textcolor{aqua}{W}$.
 # Step 3. Mapping of 1:1 relationships

@@ -1,0 +1,7 @@
+- **Data redundancy and inconsistency:** various files are likely to have different structures and the programs may be written in several programming languages. Moreover, the same information may be duplicated in several places (files).
+- **Difficulty in accessing data:** conventional file-processing environments do not allow needed data to be retrieved in a convenient and efficient manner
+- **Data isolation:** data are scattered in various files, and files may be in different formats, writing new application programs to retrieve the appropriate data is difficult.
+- **Integrity problems:** consistency constraints.
+- **Atomicity problem:** difficult to ensure atomicity in a conventional file-processing system.
+- **Concurrent-access:** multiple users to access and update data simultaneously.
+- **Security issues:** enforcing security constraints in file-processing system is difficult.

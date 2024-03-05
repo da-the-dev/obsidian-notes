@@ -15,24 +15,28 @@ Takes all rows that are either in one table, or the other, or both. Drops duplic
 $$
 A \cup B
 $$
+
 ![[Pasted image 20240227153315.png|600]]
 ## Intersection
 Takes all rows that exist in both tables.
 $$
 A \cap B
 $$
+
 ![[Pasted image 20240227153421.png|400]]
 ## Set difference (Minus)
 Takes are rows that are in the first table, but not in the second one.
 $$
 A - B
 $$
+
 ![[Pasted image 20240227153550.png|400]]
 ## Cartesian product
 Like the Cartesian product for mathematical relations
 $$
 A \times B
-$$![[Pasted image 20240227155338.png|600]]
+$$
+![[Pasted image 20240227155338.png|600]]
 # Database specific operations
 ## Select
 Selects a rows of the relation according to a condition $\theta$. Preserves columns.

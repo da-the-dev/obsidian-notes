@@ -33,4 +33,4 @@ In simpler terms:
 # Step 6. Mapping of Multivalued attributes
 - For each multivalued attribute $\textcolor{gold}{A}$, create a new relation $\textcolor{lightgreen}{R}$
 - This relation $\textcolor{lightgreen}{R}$ will include an attribute corresponding to $\textcolor{gold}{A}$, plus the primary key attribute $\textcolor{violet}{K}$ — as a foreign key in $\textcolor{lightgreen}{R}$ — of the relation that represents the entity type of relationship type that has $\textcolor{gold}{A}$ as an attribute.
-- The primary key of R is the combination of A and K. If the multivalued attribute is composite, Yeahwe include its simple components.
+- The primary key of R is the combination of A and K. If the multivalued attribute is composite, we include its simple components.

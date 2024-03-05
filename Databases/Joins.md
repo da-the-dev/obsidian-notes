@@ -43,12 +43,14 @@ INNER JOIN basket_b
  2 | Orange  | 1 | Orange
 (2 rows)
 ``` 
+**`INNER JOIN` and `JOIN` are equivalent**
 ## Left outer join
 ![[Pasted image 20240226210910.png]]
 1. The left join examines each row in table $\textcolor{red}{A}$.
 2. For each row it compares the value in the $\textcolor{red}{A}$'s column with the value in the $\textcolor{aqua}{B}$'s column. 
 3. If these values are equal, the left join adds to the result a new row that contains columns from both tables.
 4. If the values are not equal, the left join also adds to the result a new row that contains columns from both tables. Missing values are replaced with null.
+**Left join and left outer join are equivalent**
 ### Example
 **Query:**
 ```sql
@@ -58,19 +60,21 @@ LEFT JOIN basket_b
 ```
 **Output**
 ```
- a | fruit_a  |  b   | fruit_b
----+----------+------+---------
- 3 | Banana   | null | null
- 4 | Cucumber | null | null
-(2 rows)
+a | fruit_a  |  b   | fruit_b
+--+----------+------+---------
+1 |  Apple   |  2   | Apple
+2 |  Orange  |  1   | Orange
+3 |  Banana  | null | null
+4 |  Cucumber| null | null
+(4 rows)
 ```
-
 ## Right outer join
 ![[Pasted image 20240226210921.png]]
 1. The right join examines each row in table $\textcolor{aqua}{B}$.
 2. For each row it compares the value in the $\textcolor{aqua}{B}$'s column with the value in the $\textcolor{red}{A}$'s column. 
 3. If these values are equal, the right join adds to the result a new row that contains columns from both tables.
 4. If the values are not equal, the right join also adds to the result a new row that contains columns from both tables. Missing values are replaced with null.
+**Right join and right outer join are equivalent**
 ### Example
 **Query:**
 ```sql
@@ -80,11 +84,13 @@ RIGHT JOIN basket_b
 ```
 **Output**
 ```
-  a   | fruit_a | b |  fruit_b
-------+---------+---+------------
- null | null    | 3 | Watermelon
- null | null    | 4 | Pear
-(2 rows)
+  a   | fruit_a  |  b   | fruit_b
+------+----------+------+---------
+  1   |  Apple   |  2   | Apple
+  2   |  Orange  |  1   | Orange
+ null |   null   |  3   | Watermelon
+ null |   null   |  4   | Pear
+(4 rows)
 ```
 ## Full outer join
 ![[Pasted image 20240226210900.png]]
@@ -133,7 +139,7 @@ A subdivision of the [[#Inner join]]. Basically, a join that occurs according to
 $$
 A \bowtie_{\theta} B
 $$
-### Example
+`### Example
 **Query:**
 $$
 A \bowtie_{A.column\ 2 > B.column\ 2} B

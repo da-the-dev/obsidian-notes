@@ -1,0 +1,1 @@
+- Categorizes results into groups based on one or more columns.

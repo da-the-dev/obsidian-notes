@@ -1,0 +1,1 @@
+- Applies conditions to groups defined by `GROUP BY` to determine which groups will be included in the results.

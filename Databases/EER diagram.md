@@ -1,6 +1,9 @@
 ---
 aliases:
   - Generalization
+  - Specialization
+  - Category
+  - Aggregation
 ---
 A superset of [[ER diagram]]
 ### Generalization
